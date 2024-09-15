@@ -7,8 +7,14 @@ http://192.168.1.100:4022/udp/239.45.0.2:5140
 http://192.168.1.100:4022/udp/239.45.1.69:5140
 #EXTINF:-1 tvg-name="CCTV5PLUS" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 http://192.168.1.100:4022/udp/239.45.0.34:5140
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
+http://192.168.1.100:4022/udp/239.45.1.70:5140
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
+http://192.168.1.100:4022/udp/239.45.3.56:5140
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
 http://192.168.1.100:4022/udp/239.45.0.19:5140
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
+http://192.168.1.100:4022/udp/239.45.1.200:5140
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 4K 奥林匹克
 http://192.168.1.100:4022/udp/239.45.0.12:5140
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
@@ -19,3 +25,7 @@ http://192.168.1.100:4022/udp/239.45.3.209:5140
 http://192.168.1.100:4022/udp/239.45.3.146:5140
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://192.168.1.100:4022/udp/239.45.3.228:5140
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://192.168.1.100:4022/udp/239.45.3.178:5140
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.pngg" group-title="卫视频道",江苏卫视
+http://192.168.1.100:4022/udp/239.45.3.177:5140
