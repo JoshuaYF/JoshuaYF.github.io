@@ -32,4 +32,4 @@ http://192.168.1.100:4022/udp/239.45.3.177:5140
 #EXTINF:-1 tvg-id="外语频道" tvg-name="外语频道" tvg-logo="https://live.fanmingming.com/tv/外语频道.png" group-title="卫视频道",外语频道
 http://192.168.1.100:4022/udp/239.45.1.127:5140
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png" group-title="卫视频道",七彩戏剧
-http://192.168.1.100:4022/udp/239.45.3.61:5140
+http://192.168.1.100:4022/udp/239.45.1.112:5140
